@@ -10,7 +10,7 @@
 
 - Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/607925451364499477)(Vallens star#4017)
 
-- Yetkili Olduğum Discord Sunucum [Star](discord.gg/star)
+- Yetkili Olduğum Discord Sunucum [Star](https://discord.gg/v8wmKTKM8N)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vallenss&show_icons=true&theme=radical" alt="vallenssgithubistatistik" /></p>
 
