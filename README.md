@@ -14,6 +14,6 @@
 
 - Yetkili Olduğum Discord Sunucum [Star](discord.gg/star)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vallensjs&show_icons=true&theme=radical" alt="vallensgithubistatistik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vallens&show_icons=true&theme=radical" alt="vallensgithubistatistik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vallens&theme=radical" alt="vallensgithubistatistik" /></p> 
