@@ -2,13 +2,13 @@
 
 
 
-- I'm 14.And ı am going school , joining online education and ı working about discord bots , js.Also I have authorized in `Star`(discord.gg/star)
+- Merhabalar ben Alper, boş zamanlarımda yazılım ile uğraşıyorum github'umda başarılı bulduğum botlarımı paylaşıyorum sunuculara özel botlar yapıyorum bana bot yaptırmak & bana ulaşmak için aşağıda verdiğim iletişim bağlantılarından bana ulaşabilirler
 
 - Üzerinde durduğum ve çalıştığım yazılım dil(ler)i **JS**
 
 <h3 align="center">İletişim</h3>
 
-- Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/607925451364499477)(Vallens star#4017)
+- Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/607925451364499477)(Vallens#2006)
 
 - Yetkili Olduğum Discord Sunucum [Star](https://discord.gg/v8wmKTKM8N)
 
