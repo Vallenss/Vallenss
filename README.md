@@ -4,7 +4,7 @@
 
 - Merhabalar ben Alper, boş zamanlarımda yazılım ile uğraşıyorum github'umda başarılı bulduğum botlarımı paylaşıyorum sunuculara özel botlar yapıyorum bana bot yaptırmak & bana ulaşmak için aşağıda verdiğim iletişim bağlantılarından bana ulaşabilirler
 
-- Üzerinde durduğum ve çalıştığım yazılım dil(ler)i **JS**
+- Üzerinde durduğum ve çalıştığım yazılım dil(ler)i: **JS**
 
 <h3 align="center">İletişim</h3>
 
