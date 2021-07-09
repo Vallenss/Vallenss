@@ -8,9 +8,9 @@
 
 <h3 align="center">İletişim</h3>
 
-- Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/607925451364499477)(Vallens#2006)
+- Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/607925451364499477)(Vallens#1909)
 
-- Discord Sunucum [2006](https://discord.gg/2006)
+- Discord Sunucum [2006](https://discord.gg/1909)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vallenss&show_icons=true&theme=radical" alt="vallenssgithubistatistik" /></p>
 
